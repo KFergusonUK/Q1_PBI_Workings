@@ -1,6 +1,6 @@
 # Q1_PBI_Workings
-Documents for working out the Quarter 1 Performance Based Inspections bandings, with Auto-Acknowledgement
+Document for working out the Quarter 1 Performance Based Inspections bandings, with Auto-Acknowledgement
 
-Two versions, both use the same formula, the second version has a view to show all promotors, whereas V1 displays only the selected promotor.
+works with up to 100 unique promotors and 100,000 individual inspections without amendment.
 
-Both versions work with up to 100 unique promotors and 100,000 individual inspections without amendment.
+Takes into account both cases not responded to in over 10 days that remain undisputed, and cases disputed after 10 days that remain disputed.
