@@ -1,7 +1,7 @@
 # Q1_PBI_Workings
 Documents for working out the Quarter 1 Performance Based Inspections bandings, with Auto-Acknowledgement.
 
-File ending indicate Highway Authority (HA), or Promotor (Pr) file.
+File ending indicates type: Highway Authority (HA), or Promotor (Pr) file.
 
 Works with up to 100 unique promotors and 100,000 individual inspections without amendment.
 
